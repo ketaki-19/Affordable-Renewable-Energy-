@@ -15,9 +15,7 @@ tempCodeRunnerFile.py
 Thumbs.db
 
 # Exclude non-project files
-*.pdf
 *.pptx
 *.docx
-*.jpg
 DMA class photo.jpg
 jargon.docx
