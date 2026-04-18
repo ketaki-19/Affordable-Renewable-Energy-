@@ -1,0 +1,23 @@
+# Environment / secrets
+.env
+.env.txt
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+tempCodeRunnerFile.py
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Exclude non-project files
+*.pdf
+*.pptx
+*.docx
+*.jpg
+DMA class photo.jpg
+jargon.docx
